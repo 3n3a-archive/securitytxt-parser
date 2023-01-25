@@ -1,0 +1,4 @@
+github.com/3n3a/securitytxt-parser v0.0.0-20230125200835-c8e4cd5354a1 h1:+8O3FmmuzLRdTP7gy9EST5TCbLmdykDg4k2aT03Mxf0=
+github.com/3n3a/securitytxt-parser v0.0.0-20230125200835-c8e4cd5354a1/go.mod h1:CD1bxFp3HxZ3WX6OYVOBfTEAf7tjGRgkmebFBvus2Kg=
+golang.org/x/exp v0.0.0-20230124195608-d38c7dcee874 h1:kWC3b7j6Fu09SnEBr7P4PuQyM0R6sqyH9R+EjIvT1nQ=
+golang.org/x/exp v0.0.0-20230124195608-d38c7dcee874/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
