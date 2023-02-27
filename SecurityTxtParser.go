@@ -13,14 +13,14 @@ type KV struct {
 }
 
 type SecurityTxt struct {
-    Contact []string
-    Expires []string
-    Encryption []string
-    Acknowledgments []string
-    PreferredLanguages []string
-    Canonical []string
-    Policy []string
-    Hiring []string
+    Contact []string                `json:"contact"`
+    Expires []string                `json:"expires"`
+    Encryption []string             `json:"encryption"`
+    Acknowledgments []string        `json:"acknowledgements"`
+    PreferredLanguages []string     `json:"preferred-languages"`
+    Canonical []string              `json:"canonical"`
+    Policy []string                 `json:"policy"`
+    Hiring []string                 `json:"hiring"`
 }
 
 func ParseTxt(txt string) (SecurityTxt, error) {
